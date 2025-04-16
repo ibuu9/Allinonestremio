@@ -1,3 +1,15 @@
+# v0.0.2 (Wed Apr 16 2025)
+
+#### ⚠️ Pushed to `main`
+
+- Update docker-compose.yml ([@ibuu9](https://github.com/ibuu9))
+
+#### Authors: 1
+
+- [@ibuu9](https://github.com/ibuu9)
+
+---
+
 # v0.0.1 (Wed Apr 16 2025)
 
 :tada: This release contains work from a new contributor! :tada:
